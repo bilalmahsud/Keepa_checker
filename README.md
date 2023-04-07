@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Keepa Checker is a Python script that allows you to track the price of any product on Amazon using the Keepa API.
+  Keepa Checker is a Python script that allows you to check logs.txt login in shapelike = Username:Password.
 </p>
 
 ## Installation

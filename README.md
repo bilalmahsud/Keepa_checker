@@ -18,7 +18,7 @@ To run Keepa Checker, you will need to have Git and Python installed on your mac
 
 3. Create a `logs.txt` file in the repository.
 
-4. Edit the `keepa_checker.py` file and enter your Amazon username and password.
+4. Edit the `keepa_checker.py` file for performace if you want to 
 
 ## Usage
 

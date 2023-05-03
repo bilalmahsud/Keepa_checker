@@ -7,7 +7,7 @@
 <p align="center">
   Keepa Checker is a Python script that allows you to track the price of any product on Amazon using the Keepa API.
 </p>
-
+***Author: Bilalmahsud***
 ## Installation
 
 To run Keepa Checker, you will need to have Git and Python installed on your machine.

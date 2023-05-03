@@ -1,3 +1,6 @@
 
 -Engage in swordfights with professional pirates
+
+-Engage in swordfights with professional pirates such as Smee.
+
 THis is the line Most not be added the Master branch ot this
